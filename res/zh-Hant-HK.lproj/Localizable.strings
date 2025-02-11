@@ -7,8 +7,8 @@
 /* No comment provided by engineer. */
 "%@ is not available." = "%@ 不可用。";
 
-/* TODO */
-"%@ is not implemented yet." = "%@ is not implemented yet.";
+/* No comment provided by engineer. */
+"%@ is not implemented yet." = "%@ 尚未實現。";
 
 /* No comment provided by engineer. */
 "%@ is not set up." = "%@ 未設定。";
@@ -70,11 +70,11 @@
 /* No comment provided by engineer. */
 "A new version (%@) of “TrollRecorder” is available." = "有新版本的應用程式 %@ 可用。";
 
-/* TODO */
-"A resping is required to completely apply the changes." = "A resping is required to completely apply the changes.";
+/* No comment provided by engineer. */
+"A resping is required to completely apply the changes." = "退出並重新打開應用程式方可生效。如果需要在推送通知、懸浮窗等位置使用新設定的語言，輕撳 “繼續” 制以妙手回春。";
 
-/* TODO */
-"A widget is required for the “Launch Shield” feature." = "A widget is required for the “Launch Shield” feature.";
+/* No comment provided by engineer. */
+"A widget is required for the “Launch Shield” feature." = " “啟動守護” 功能需要一個小組件。";
 
 /* No comment provided by engineer. */
 "accept" = "接聽";
@@ -85,8 +85,8 @@
 /* No comment provided by engineer. */
 "Accept Incoming Calls" = "接聽來電";
 
-/* TODO */
-"Access From Web Browser" = "Access From Web Browser";
+/* No comment provided by engineer. */
+"Access From Web Browser" = "從瀏覽器訪問";
 
 /* No comment provided by engineer. */
 "Access your recordings from a WebDAV browser from another device in the network. The server is active only when the application is in foreground." = "從網絡中的另一臺裝置的 WebDAV 瀏覽器中訪問你的錄音。 僅當應用程式處於前景時服務可用。";
@@ -97,17 +97,17 @@
 /* No comment provided by engineer. */
 "Activate the recorder hoverball." = "啟動服務，并打開錄音懸浮球。";
 
-/* TODO */
-"Add Now" = "Add Now";
+/* No comment provided by engineer. */
+"Add Now" = "立即添加";
 
-/* TODO */
-"Add Required Widget" = "Add Required Widget";
+/* No comment provided by engineer. */
+"Add Required Widget" = "添加所需的小組件";
 
 /* No comment provided by engineer. */
 "Additional Contact" = "自定義聯絡人";
 
-/* TODO */
-"Adequate" = "Adequate";
+/* No comment provided by engineer. */
+"Adequate" = "最低";
 
 /* No comment provided by engineer. */
 "Advanced Audio Coding" = "高級音訊編碼 (AAC)";
@@ -163,8 +163,8 @@
 /* No comment provided by engineer. */
 "Always Dynamic" = "保持動態";
 
-/* TODO */
-"Always Fold" = "Always Fold";
+/* No comment provided by engineer. */
+"Always Fold" = "始終摺疊";
 
 /* No comment provided by engineer. */
 "Always keep the hoverball window visible." = "總是保持懸浮球可見。";
@@ -184,14 +184,14 @@
 /* No comment provided by engineer. */
 "AM/PM String" = "上午/下午";
 
-/* TODO */
-"An unknown error occurred." = "An unknown error occurred.";
+/* No comment provided by engineer. */
+"An unknown error occurred." = "發生了未知錯誤。";
 
 /* No comment provided by engineer. */
 "Analysing Audio" = "正在分析音訊";
 
-/* TODO */
-"Another %@ is required to continue editing. Available capacity is %@." = "Another %1$@ is required to continue editing. Available capacity is %2$@.";
+/* No comment provided by engineer. */
+"Another %@ is required to continue editing. Available capacity is %@." = "儲存空間不足：繼續編輯需要額外的 %@。可用容量為 %@。";
 
 /* No comment provided by engineer. */
 "answer" = "應答";
@@ -199,14 +199,14 @@
 /* No comment provided by engineer. */
 "answered" = "已接聽";
 
-/* TODO */
-"Any" = "Any";
+/* No comment provided by engineer. */
+"Any" = "不限";
 
 /* No comment provided by engineer. */
 "App Icon" = "應用程式圖標";
 
-/* TODO */
-"App Language" = "App Language";
+/* No comment provided by engineer. */
+"App Language" = "界面語言";
 
 /* No comment provided by engineer. */
 "Appearance" = "顯示與外觀";
@@ -226,8 +226,8 @@
 /* No comment provided by engineer. */
 "archive" = "歸檔";
 
-/* TODO */
-"Are you sure you want to discard the changes you made?" = "Are you sure you want to discard the changes you made?";
+/* No comment provided by engineer. */
+"Are you sure you want to discard the changes you made?" = "你確定要丟棄你所做的更改嗎？";
 
 /* No comment provided by engineer. */
 "Are you sure you want to remove all shortcut definitions?" = "你確定要刪除所有自動化動作嗎？";
@@ -244,14 +244,14 @@
 /* No comment provided by engineer. */
 "audio" = "音訊";
 
-/* TODO */
-"Audio CD" = "Audio CD";
+/* No comment provided by engineer. */
+"Audio CD" = "音訊 CD";
 
 /* No comment provided by engineer. */
 "Audio Compression" = "音訊壓縮";
 
-/* TODO */
-"Audio File" = "Audio File";
+/* No comment provided by engineer. */
+"Audio File" = "音訊檔案";
 
 /* No comment provided by engineer. */
 "Audio played to %@" = "音訊播放至 %@";
@@ -262,23 +262,23 @@
 /* No comment provided by engineer. */
 "Authenticate with %@" = "使用 %@ 進行驗證";
 
-/* TODO */
-"Authorization error: %@" = "Authorization error: %@";
+/* No comment provided by engineer. */
+"Authorization error: %@" = "認證錯誤：%@";
 
-/* TODO */
-"Authorization flow was manually canceled by user." = "Authorization flow was manually canceled by user.";
+/* No comment provided by engineer. */
+"Authorization flow was manually canceled by user." = "用戶手動取消了認證流程。";
 
-/* TODO */
-"Authorize with Dropbox" = "Authorize with Dropbox";
+/* No comment provided by engineer. */
+"Authorize with Dropbox" = "使用 Dropbox 賬戶登入";
 
-/* TODO */
-"Authorize with Google" = "Authorize with Google";
+/* No comment provided by engineer. */
+"Authorize with Google" = "使用 Google 賬戶登入";
 
-/* TODO */
-"Authorize with Microsoft" = "Authorize with Microsoft";
+/* No comment provided by engineer. */
+"Authorize with Microsoft" = "使用 Microsoft 賬戶登入";
 
-/* TODO */
-"Automatic" = "Automatic";
+/* No comment provided by engineer. */
+"Automatic" = "自動";
 
 /* No comment provided by engineer. */
 "Automatic Recording" = "自動錄音";
@@ -292,8 +292,8 @@
 /* No comment provided by engineer. */
 "Automatically merge microphone and speaker into a single file after record complete." = "錄音完成後，自動將咪高風和揚聲器合併成一個檔案。";
 
-/* TODO */
-"Automatically move the hoverball to avoid the keyboard in portrait orientation." = "Automatically move the hoverball to avoid the keyboard in portrait orientation.";
+/* No comment provided by engineer. */
+"Automatically move the hoverball to avoid the keyboard in portrait orientation." = "在直向螢幕下，自動移動懸浮球以避開鍵盤。";
 
 /* No comment provided by engineer. */
 "Automatically purge recycle bin and remove failure caches." = "定期自動清理回收站和錄音失敗時留下的緩存。";
@@ -340,8 +340,8 @@
 /* No comment provided by engineer. */
 "Before starting a call recording, a prompt voice is played to the opposite end." = "接通並開始通話錄音前，向對方播放一段提示語音。 請遵守你所在地的法律法規。 關閉提示音後，可能會影響通話錄音作為證據使用的法律效力。";
 
-/* TODO */
-"Beta" = "Beta";
+/* No comment provided by engineer. */
+"Beta" = "預發布版";
 
 /* No comment provided by engineer. */
 "Bi-sync" = "雙向同步";
@@ -355,8 +355,8 @@
 /* No comment provided by engineer. */
 "Boost Periodic Tasks" = "加速定時任務";
 
-/* TODO */
-"Bootstrap (TrollStore Compatible Mode)" = "Bootstrap (TrollStore Compatible Mode)";
+/* No comment provided by engineer. */
+"Bootstrap (TrollStore Compatible Mode)" = "Bootstrap （ TrollStore 兼容模式）";
 
 /* No comment provided by engineer. */
 "Both (Microphone & Speaker)" = "雙向（咪高風和揚聲器）";
@@ -418,8 +418,8 @@
 /* No comment provided by engineer. */
 "Calls can only be recorded when using the microphone on this device. Calls from this device that are answered on other devices will not be recorded." = "僅當你使用此裝置上的咪高風進行通話時，才能够錄製通話。從其他裝置接聽來自此裝置的通話時，通話將無法被錄音。";
 
-/* TODO */
-"Camcorder" = "Camcorder";
+/* No comment provided by engineer. */
+"Camcorder" = "相機";
 
 /* No comment provided by engineer. */
 "Cancel" = "取消";
@@ -436,8 +436,8 @@
 /* No comment provided by engineer. */
 "Check if the daemon is running. If not, launch it." = "檢查守護進程是否正在運行。如果沒有則啟動它。";
 
-/* TODO */
-"Check Updates" = "Check Updates";
+/* No comment provided by engineer. */
+"Check Updates" = "檢查更新";
 
 /* No comment provided by engineer. */
 "Check Updates at Launch" = "啟動時檢查更新";
@@ -463,14 +463,14 @@
 /* No comment provided by engineer. */
 "Clean Caches Automatically" = "自動清理緩存";
 
-/* TODO */
-"Clear" = "Clear";
+/* No comment provided by engineer. */
+"Clear" = "清空";
 
 /* No comment provided by engineer. */
 "Clear Selection" = "清楚篩選項";
 
-/* TODO */
-"Clear Wave Caches" = "Clear Wave Caches";
+/* No comment provided by engineer. */
+"Clear Wave Caches" = "清空波形緩存";
 
 /* No comment provided by engineer. */
 "Close" = "關閉";
@@ -487,8 +487,8 @@
 /* No comment provided by engineer. */
 "Combined Mode" = "組合模式";
 
-/* TODO */
-"Compiled at %@" = "Compiled at %@";
+/* No comment provided by engineer. */
+"Compiled at %@" = "編譯于 %@";
 
 /* No comment provided by engineer. */
 "Compress Recording" = "壓縮音訊";
@@ -496,8 +496,8 @@
 /* No comment provided by engineer. */
 "Confirm" = "確認";
 
-/* TODO */
-"Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon." = "Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon.";
+/* No comment provided by engineer. */
+"Confirm your Havoc account, it is the only proof of purchase. You are responsible for any loss of authorization due to forgotten accounts. When making a purchase, please click on the amount on the page to complete the payment, do not click on the gift icon." = "請確認你的 Havoc 賬戶，這是唯一的購買憑證。因賬戶遺忘造成授權丟失的，用戶需自行承擔損失。購買時請你撳頁面上的金額完成支付，不要撳禮物制。";
 
 /* No comment provided by engineer. */
 "connected" = "已連線";
@@ -505,8 +505,8 @@
 /* No comment provided by engineer. */
 "Connected Clients: %d" = "已連線客戶端：%d";
 
-/* TODO */
-"Connection" = "Connection";
+/* No comment provided by engineer. */
+"Connection" = "連接";
 
 /* No comment provided by engineer. */
 "Constants" = "常量";
@@ -583,17 +583,17 @@
 /* No comment provided by engineer. */
 "Copy Value" = "複製值";
 
-/* TODO */
-"Could not acquire token: %@" = "Could not acquire token: %@";
+/* No comment provided by engineer. */
+"Could not acquire token: %@" = "無法獲取令牌：%@";
 
-/* TODO */
-"Could not acquire token: No result returned." = "Could not acquire token: No result returned.";
+/* No comment provided by engineer. */
+"Could not acquire token: No result returned." = "無法獲取令牌：未返回結果。";
 
-/* TODO */
-"Could not get graph result: %@" = "Could not get graph result: %@";
+/* No comment provided by engineer. */
+"Could not get graph result: %@" = "無法獲取圖表結果：%@";
 
-/* TODO */
-"Could not sign out account: %@" = "Could not sign out account: %@";
+/* No comment provided by engineer. */
+"Could not sign out account: %@" = "無法登出賬戶：%@";
 
 /* No comment provided by engineer. */
 "Create Archive" = "創建存檔";
@@ -601,8 +601,8 @@
 /* No comment provided by engineer. */
 "Created At" = "創建於";
 
-/* TODO */
-"Credentials" = "Credentials";
+/* No comment provided by engineer. */
+"Credentials" = "憑據";
 
 /* No comment provided by engineer. */
 "Custom Export Name" = "自定義匯出名稱";
@@ -616,8 +616,8 @@
 /* No comment provided by engineer. */
 "daemon" = "守護進程";
 
-/* TODO */
-"Daily Arranged" = "Daily Arranged";
+/* No comment provided by engineer. */
+"Daily Arranged" = "按天整理";
 
 /* No comment provided by engineer. */
 "Date & Time" = "日期與時間";
@@ -646,8 +646,8 @@
 /* No comment provided by engineer. */
 "decline" = "拒接";
 
-/* TODO */
-"Decoding" = "Decoding";
+/* No comment provided by engineer. */
+"Decoding" = "解碼中";
 
 /* No comment provided by engineer. */
 "Default" = "缺省";
@@ -670,14 +670,14 @@
 /* No comment provided by engineer. */
 "Deselect All" = "取消全選";
 
-/* TODO */
-"Detail Only" = "Detail Only";
+/* No comment provided by engineer. */
+"Detail Only" = "僅詳情";
 
 /* No comment provided by engineer. */
 "Developer Options" = "開發者選項";
 
-/* TODO */
-"Digital Video" = "Digital Video";
+/* No comment provided by engineer. */
+"Digital Video" = "數碼視訊";
 
 /* No comment provided by engineer. */
 "Direction" = "通話類型";
@@ -697,29 +697,29 @@
 /* No comment provided by engineer. */
 "Disabled" = "關閉";
 
-/* TODO */
-"Disallow" = "Disallow";
+/* No comment provided by engineer. */
+"Disallow" = "不允許";
 
-/* TODO */
-"Disallow Automatic Recording" = "Disallow Automatic Recording";
+/* No comment provided by engineer. */
+"Disallow Automatic Recording" = "不允許自動錄音";
 
-/* TODO */
-"Disallow Hoverball Wake-Ups" = "Disallow Hoverball Wake-Ups";
+/* No comment provided by engineer. */
+"Disallow Hoverball Wake-Ups" = "不允許喚醒懸浮球";
 
-/* TODO */
-"Discard" = "Discard";
+/* No comment provided by engineer. */
+"Discard" = "丟棄";
 
-/* TODO */
-"discard" = "discard";
+/* No comment provided by engineer. */
+"discard" = "丟棄";
 
-/* TODO */
-"Discard Changes" = "Discard Changes";
+/* No comment provided by engineer. */
+"Discard Changes" = "放棄更改";
 
 /* No comment provided by engineer. */
 "Discard Recording" = "丟棄錄音";
 
-/* TODO */
-"Discreet Mode" = "Discreet Mode";
+/* No comment provided by engineer. */
+"Discreet Mode" = "隱秘模式";
 
 /* No comment provided by engineer. */
 "Discreet Voice Memos" = "隱秘語音備忘錄";
@@ -754,8 +754,8 @@
 /* No comment provided by engineer. */
 "Display the hoverball when both the audio inputs and outputs are continuously active." = "當音訊輸入和輸出都處於持續活躍狀態時，顯示懸浮球。";
 
-/* TODO */
-"Display the hoverball when record voice memo through this application, or the call recording is manually initiated." = "Display the hoverball when record voice memo through this application, or the call recording is manually initiated.";
+/* No comment provided by engineer. */
+"Display the hoverball when record voice memo through this application, or the call recording is manually initiated." = "通過此應用程式錄製語音備忘錄，或手動啟動通話錄音時，顯示懸浮球。";
 
 /* No comment provided by engineer. */
 "Display the name or description of each option." = "顯示每個選項的名稱或描述。";
@@ -799,14 +799,14 @@
 /* No comment provided by engineer. */
 "Drag __here__ to adjust  \nthe size of the ___%@___." = "拖拽 __此處__ 以調節 ___%@___ 的尺寸。";
 
-/* TODO */
+/* No comment provided by engineer. */
 "Drive ID" = "Drive ID";
 
 /* No comment provided by engineer. */
 "Dropbox" = "Dropbox";
 
-/* TODO */
-"Due to environmental limitations, if you encounter blank or missing widgets, please try rebooting your device or rebuilding the icon cache from TrollStore." = "Due to environmental limitations, if you encounter blank or missing widgets, please try rebooting your device or rebuilding the icon cache from TrollStore.";
+/* No comment provided by engineer. */
+"Due to environmental limitations, if you encounter blank or missing widgets, please try rebooting your device or rebuilding the icon cache from TrollStore." = "如果你遇到小組件空白或不顯示，請嘗試重啟裝置，或者在 TrollStore 中重建圖標緩存。";
 
 /* No comment provided by engineer. */
 "Due to technical reasons, non-CallKit calls will not trigger shortcuts related to call states." = "由於技術原因，非 CallKit 通話不會觸發與通話狀態相關的自動化動作。";
@@ -829,8 +829,8 @@
 /* No comment provided by engineer. */
 "E.U.L.A." = "最終用戶授權合約";
 
-/* TODO */
-"Edit" = "Edit";
+/* No comment provided by engineer. */
+"Edit" = "編輯";
 
 /* No comment provided by engineer. */
 "Empty Trash" = "清空回收站";
@@ -844,8 +844,8 @@
 /* No comment provided by engineer. */
 "Enable Face ID" = "啟用 Face ID";
 
-/* TODO */
-"Enable level metering and present an indicator when the hoverball is folded. This option is only available when “Transition When Idle” is set to “Always Fold”." = "Enable level metering and present an indicator when the hoverball is folded. This option is only available when “Transition When Idle” is set to “Always Fold”.";
+/* No comment provided by engineer. */
+"Enable level metering and present an indicator when the hoverball is folded. This option is only available when “Transition When Idle” is set to “Always Fold”." = "啟動電平計量，並在懸浮球摺疊時顯示指示器。此選項僅在 “閒置效果” 設定為 “始終摺疊”時可用。";
 
 /* No comment provided by engineer. */
 "Enable Logging" = "啟用日志";
@@ -865,8 +865,8 @@
 /* No comment provided by engineer. */
 "Enables the WebDAV server to automatically suspend itself when the application goes into the background and the last connection is closed, then resume itself when the application comes back to the foreground." = "當應用程式進入背景且最後一個連線關閉時，自動停止 WebDAV 服務。當應用程式回到前景時恢復服務。";
 
-/* TODO */
-"Encoding" = "Encoding";
+/* No comment provided by engineer. */
+"Encoding" = "編碼中";
 
 /* No comment provided by engineer. */
 "End Date" = "結束日期";
@@ -874,8 +874,8 @@
 /* No comment provided by engineer. */
 "End Editing" = "結束編輯";
 
-/* TODO */
-"Enhance Recording" = "Enhance Recording";
+/* No comment provided by engineer.2 */
+"Enhance Recording" = "增強錄音";
 
 /* No comment provided by engineer. */
 "Enhanced Automatic Recording" = "增强自動錄音";
