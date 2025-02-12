@@ -889,23 +889,23 @@
 /* No comment provided by engineer. */
 "Enter your password" = "輸入密碼";
 
-/* TODO */
-"Erase All" = "Erase All";
+/* No comment provided by engineer. */
+"Erase All" = "徹底抹除";
 
-/* TODO */
-"Erase all recordings, reset all settings, and clear all caches completely." = "Erase all recordings, reset all settings, and clear all caches completely.";
+/* No comment provided by engineer. */
+"Erase all recordings, reset all settings, and clear all caches completely." = "徹底抹除所有錄音，重設所有設定，並完全清除所有緩存。";
 
-/* TODO */
-"Erase Almost Completed" = "Erase Almost Completed";
+/* No comment provided by engineer. */
+"Erase Almost Completed" = "抹除即將完成";
 
-/* TODO */
-"Erasing…" = "Erasing…";
+/* No comment provided by engineer. */
+"Erasing…" = "正在抹除…";
 
 /* No comment provided by engineer. */
 "Error" = "錯誤";
 
-/* TODO */
-"Error retrieving discovery document: %@" = "Error retrieving discovery document: %@";
+/* No comment provided by engineer. */
+"Error retrieving discovery document: %@" = "檢索接口目錄時發生錯誤：%@";
 
 /* No comment provided by engineer. */
 "exit" = "exit";
@@ -958,8 +958,8 @@
 /* No comment provided by engineer. */
 "Failed to remove: %@" = "無法刪除：%@";
 
-/* TODO */
-"Features on this page are under active development, hang tight!" = "Features on this page are under active development, hang tight!";
+/* No comment provided by engineer. */
+"Features on this page are under active development, hang tight!" = "此頁面上所示的功能仍在積極開發中，敬請期待！";
 
 /* No comment provided by engineer. */
 "Features Unlocked" = "功能已解鎖";
@@ -973,8 +973,8 @@
 /* No comment provided by engineer. */
 "File Size" = "檔案大小";
 
-/* TODO */
-"File System" = "File System";
+/* No comment provided by engineer. */
+"File System" = "檔案系統";
 
 /* No comment provided by engineer. */
 "Filter" = "過濾器";
@@ -988,14 +988,14 @@
 /* No comment provided by engineer. */
 "Focus" = "聚焦";
 
-/* TODO */
-"Fold When Inactive" = "Fold When Inactive";
+/* No comment provided by engineer. */
+"Fold When Inactive" = "不活動時摺疊";
 
 /* No comment provided by engineer. */
 "Follow System" = "跟隨系統";
 
-/* TODO */
-"Force the app to use a specific language. Reopen to apply changes." = "Force the app to use a specific language. Reopen to apply changes.";
+/* No comment provided by engineer. */
+"Force the app to use a specific language. Reopen to apply changes." = "強制應用程式使用指定的語言。退出並重新打開應用程式後方可生效。";
 
 /* No comment provided by engineer. */
 "Format" = "格式";
@@ -1012,8 +1012,8 @@
 /* No comment provided by engineer. */
 "From %@" = "起始於 %@";
 
-/* TODO */
-"From %@ to %@" = "From %1$@ to %2$@";
+/* No comment provided by engineer. */
+"From %@ to %@" = "在 $@ 到 $@ 期間";
 
 /* No comment provided by engineer. */
 "From: %@" = "起始於：%@";
@@ -1036,8 +1036,8 @@
 /* No comment provided by engineer. */
 "Full Year" = "完整年份";
 
-/* TODO */
-"Get ${requestedField}" = "Get ${requestedField}";
+/* No comment provided by engineer. */
+"Get ${requestedField}" = "獲取 ${requestedField}";
 
 /* No comment provided by engineer. */
 "Get advanced control when recording right in your call." = "在通話中打開控制面板即可控制錄製參數。";
@@ -1087,8 +1087,8 @@
 /* No comment provided by engineer. */
 "Group Call" = "群組通話";
 
-/* TODO */
-"Hide Hoverball" = "Hide Hoverball";
+/* No comment provided by engineer. */
+"Hide Hoverball" = "隱藏懸浮球";
 
 /* No comment provided by engineer. */
 "Hide the “Voice Memos” app from the lock screen, and hide its “Dynamic Island” activities. This feature may require a re-spring to take effect." = "隱藏 “語音備忘錄” 在鎖屏界面上的顯示，並隱藏其 “動態島” 活動。此功能可能需要妙手回春才能完全生效。";
@@ -1150,14 +1150,14 @@
 /* No comment provided by engineer. */
 "If there is something wrong with the search indexes, you can reset them here." = "如果搜尋索引出了問題，可以在這裡重新設定。";
 
-/* TODO */
-"If there’s no active phone call, press both of the physical volume buttons to perform specified action." = "If there’s no active phone call, press both of the physical volume buttons to perform specified action.";
+/* No comment provided by engineer. */
+"If there’s no active phone call, press both of the physical volume buttons to perform specified action." = "當沒有活躍通話時，同時撳兩個音量制執行指定的動作，";
 
 /* No comment provided by engineer. */
 "If your phone supports dual SIM cards, the SIM card alias used for the recorded call is displayed here." = "如果您的手機支援 2 張 SIM 卡，錄音通話時所使用的 SIM 卡別名將顯示在這裏。";
 
-/* TODO */
-"If you’ve enabled “Backup with iCloud” and the backup is synchronized successfully, this action will be triggered." = "If you’ve enabled “Backup with iCloud” and the backup is synchronized successfully, this action will be triggered.";
+/* No comment provided by engineer. */
+"If you’ve enabled “Backup with iCloud” and the backup is synchronized successfully, this action will be triggered." = "如果你已經啟用了 “使用 iCloud 備份” 並且同步成功，此動作將被觸發。";
 
 /* No comment provided by engineer. */
 "Ignore the last modification date on all directories and files and make a deep clone of all recordings." = "忽略所有目錄和檔案的最後修改日期，並深度克隆所有錄音。";
@@ -1168,8 +1168,8 @@
 /* No comment provided by engineer. */
 "In 15 Minutes" = "15 分鐘内";
 
-/* TODO */
-"Inaccurate Time Detected" = "Inaccurate Time Detected";
+/* No comment provided by engineer. */
+"Inaccurate Time Detected" = "檢測到不準確的時間";
 
 /* No comment provided by engineer. */
 "Incoming" = "來電";
@@ -1207,8 +1207,8 @@
 /* No comment provided by engineer. */
 "Install “Create Archive” action into “Shortcuts”, then share your recordings to this action to create a ZIP archive." = "將“創建檔案”操作安裝到“捷徑”中，然後將您的錄製共享到此操作以創建ZIP檔案。";
 
-/* TODO */
-"Invalid Code Signature" = "Invalid Code Signature";
+/* No comment provided by engineer. */
+"Invalid Code Signature" = "無效的程式碼簽名";
 
 /* No comment provided by engineer. */
 "Invalid code signature.\nPlease reinstall this application from TrollStore." = "無效的程式碼簽名。\n請從 TrollStore 重新安裝此應用程式。";
@@ -1228,8 +1228,8 @@
 /* No comment provided by engineer. */
 "Is Finalizing" = "是否正在處理";
 
-/* TODO */
-"Is Microphone Enabled" = "Is Microphone Enabled";
+/* No comment provided by engineer. */
+"Is Microphone Enabled" = "是否啟用咪高風";
 
 /* No comment provided by engineer. */
 "Is Paused" = "是否已經暫停";
@@ -1249,14 +1249,14 @@
 /* No comment provided by engineer. */
 "Keep Screen On When Connected" = "連線時保持螢幕常亮";
 
-/* TODO */
-"Keyboard Avoidance" = "Keyboard Avoidance";
+/* No comment provided by engineer. */
+"Keyboard Avoidance" = "鍵盤避讓";
 
 /* No comment provided by engineer. */
 "Kill all applications and restart the render server (backboardd)." = "關閉所有應用程式並重啟渲染服務（backboardd）";
 
-/* TODO */
-"Language Changed" = "Language Changed";
+/* No comment provided by engineer. */
+"Language Changed" = "語言已更改";
 
 /* No comment provided by engineer. */
 "Larger" = "較大";
